@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Kyung Hee Univ. NLP LAB
 - 🌱 I’m currently learning NLP
-- 📫 How to reach me: zen152@khu.ac.kr
+- 📫 How to reach me: seong_eun@korea.ac.kr
 
 <!--
 **Seoneun/Seoneun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
