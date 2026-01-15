@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Kyung Hee Univ. NLP LAB
-- 🌱 I’m currently learning NLP
+- 🔭 I’m currently working on Korea Univ. IIIXR LAB
+- 🌱 I’m currently learning Computer Graphics.
 - 📫 How to reach me: seong_eun@korea.ac.kr
 
 <!--
